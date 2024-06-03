@@ -1,12 +1,4 @@
 
-https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/b7c85da9-ee11-4815-ae33-4cb45bb8d8da
-
-https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/b7c85da9-ee11-4815-ae33-4cb45bb8d8da
-
-https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/9401bada-5540-4990-9526-07b00e775156
-
-https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/9401bada-5540-4990-9526-07b00e775156
-
 # Batch Systems Assignment
 
 This repository contains code for the given assignment by Batch Systems
@@ -48,7 +40,7 @@ Figma Design --> https://www.figma.com/design/vaDKuICOQf18VwGnOtnCZl/App-Landing
 
 this is how it look like -->  
 
-
+https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/9401bada-5540-4990-9526-07b00e775156
 
 https://github.com/kesharibhai84/batch-system-assignment/assets/136710684/6d2c89e5-2e5d-4f3a-a6d5-dcb3e9800aeb
 
