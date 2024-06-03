@@ -21,10 +21,9 @@ main files : index.html , style.css , public(folder)
 now run the idex.html file
 
 
+Visit the site here --> 
 
-## Demo
-
-https://github.com/UditSharma04/Batch-Systems_Assignmet/assets/109049436/a533480c-f397-4838-ad3e-08dbce732f29
+Figma Design --> https://www.figma.com/design/vaDKuICOQf18VwGnOtnCZl/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&t=pwnE1yzMUUBZFwk4-0
 
 
 
