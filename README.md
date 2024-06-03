@@ -3,25 +3,23 @@
 
 This repository contains code for the given assignment by Batch Systems
 
-Visit the site here -->  https://uditsharma04.github.io/Batch-Systems_Assignmet/
+Visit the site here -->  https://github.com/kesharibhai84/batch-system-assignment/
 
 
 ## Authors
 
-- [Udit Sharma](https://www.github.com/uditsharma04)
+- [Udit Sharma](https://github.com/kesharibhai84/)
 
 
 ## Run Locally
 
-Download the given files
+Download files
 
 main files : index.html , style.css , public(folder)
 
 ```
 now run the idex.html file
 
-Double click on index.html file
-```
 
 
 ## Demo
@@ -31,7 +29,4 @@ https://github.com/UditSharma04/Batch-Systems_Assignmet/assets/109049436/a533480
 
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellouditt/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hellouditt)
 
